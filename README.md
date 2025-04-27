@@ -1,34 +1,19 @@
-# Hi there, I'm Milan Jovanović! 👋
+### Hi there, I'm Sana Ulla! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=sana-ullah305&color=blue)</div>
 
-🌐 **Website URL**: [Your Website](https://blogflare.runasp.net/)  
-📺 **YouTube URL**: [Your YouTube Channel](#)  
-🔗 **LinkedIn URL**: [Your LinkedIn](https://www.linkedin.com/in/sana-ullah-66bb43147/)  
-🐦 **Twitter URL**: [Your Twitter](#)  
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sana-ullah-66bb43147/)
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://blogflare.runasp.net/)
 
-I'm a **Software Architect** with expertise in building scalable, maintainable, and high-performance applications. Passionate about **.NET**, **Angular**, and **Clean Architecture**. I specialize in **Microservices**, **Modular Monoliths**, **DDD (Domain-Driven Design)**, and **RESTful APIs**.
+## **I'm a Software Developer & Architect specializing in Angular, .NET, and Clean Architecture.**
 
-🎯 **I’m currently working on:** 
-- Mastering the intricacies of **Modular Monoliths** and **Microservices**.
-- Deepening my knowledge of **Clean Architecture** and **DDD** to build more scalable systems.
-- Leveraging the power of **PostgreSQL** and **MS SQL Server** in large-scale applications.
+- 🎯 **I’m currently working on**: Building scalable solutions with Angular, .NET Core 3+ to 9, and Microservices.
+- 💬 **Ask me about**: Angular, .NET, DDD, Clean Architecture, Modular Monolithic Architecture, RESTful APIs, SQL (MS SQL & PgSQL), Microservices, and more!
+- 📫 **How to reach me**: Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/sana-ullah-66bb43147/) or visit my [website](https://blogflare.runasp.net/).
 
-💬 **Ask me about:**
-- **.NET Core (3+ to 9)**
-- **Angular**
-- **Clean Architecture**
-- **DDD (Domain-Driven Design)**
-- **CQRS** (Command Query Responsibility Segregation)
-- **Microservices & Modular Monolithic Architecture**
-- **SQL & NoSQL Databases (MS SQL, PostgreSQL)**
-- **RESTful APIs**
-- **Testing and CI/CD**
+**Let me guide you through some of the exciting technologies I work with**:
 
-📫 **How to reach me:** Reach out and connect with me on [LinkedIn](https://www.linkedin.com/in/sana-ullah-66bb43147/)! 👆
+1. **Modular Monolithic Architecture**: I use modular monolithic designs to ensure maintainability and scalability in large applications.
+2. **Domain-Driven Design (DDD)**: Applying DDD principles to build robust, business-driven solutions.
+3. **Microservices**: Architecting and implementing microservices for highly scalable and flexible systems.
+4. **Clean Architecture**: Helping teams build modular, testable, and maintainable systems using Clean Architecture principles.
 
-Whenever you're ready, there are 2 ways I can help you:
-
-## Pragmatic Clean Architecture
-Join **2,900+ students** in this comprehensive course that will teach you the system I use to ship production-ready applications using Clean Architecture. Learn how to apply best practices of modern software architecture and streamline your development process.
-
-## Modular Monolith Architecture
-Join **750+ engineers** in this in-depth course that will transform the way you build modern systems. You will learn the best practices for applying the **Modular Monolith architecture** in real-world scenarios, helping you structure large-scale applications with ease.
+<hr/>
